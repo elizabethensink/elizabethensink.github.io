@@ -140,7 +140,7 @@ section, footer, header{
 /* The previous / next arrows & labels */
 
 .slider .nav-previous .icon {
-	background: url("OldPaperBackground.jpg") no-repeat scroll 0 -293px transparent;
+	background: url("timeline.png") no-repeat scroll 0 -293px transparent;
 }
 
 .slider .nav-previous,.slider .nav-next{
