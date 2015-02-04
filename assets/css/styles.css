@@ -91,8 +91,8 @@ section, footer, header{
 /* Adding a darker background to the timeline navigation */
 
 #timeline div.timenav-background{
-	background-color:#222 !important;
- 	background-color:rgba(0,0,0,0.4) !important;
+	background-color:#F5FF6B !important;
+ 	background-color:rgba(192,192,192,0.4) !important;
  	
 }
 
