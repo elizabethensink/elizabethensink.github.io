@@ -15,7 +15,7 @@
 
 
 html{
-	background:url('../img/OldPaperBackground.jpg') repeat #191919;
+	background:url('.../img/OldPaperBackround.jp') repeat #191919;
 }
 
 
@@ -91,7 +91,7 @@ section, footer, header{
 /* Adding a darker background to the timeline navigation */
 
 #timeline div.timenav-background{
-	background-color: rgba(78, 120, 141, 0.7) !important;
+	background-color: rgba(38, 63, 64, 0.7) !important;
  
  	
 }
