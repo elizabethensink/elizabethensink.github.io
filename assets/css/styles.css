@@ -47,7 +47,7 @@ section, footer, header{
 
 
 #timeline{
-	background:none;
+	background: url('../img/OldPaperBackground.jpg')    ;
 }
 
 .slider .slider-container-mask .slider-container{
