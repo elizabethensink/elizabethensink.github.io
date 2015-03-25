@@ -55,7 +55,7 @@ section, footer, header{
 }
 
 #timeline div.navigation{
-    background: url('../img/timeline_bg.jpg') repeat;
+    background: url('../img/OldPaperBackground.jpg') repeat;
     border-top:none;
 }
 
@@ -68,7 +68,7 @@ section, footer, header{
 	width:100%;
 	left:0;
 	top:-40px;
-	background: url('../img/timeline_bg.jpg') repeat;
+	background: url('../img/OldPaperBackground.jpg') repeat;
 }
 
 #timeline div.navigation:after{
