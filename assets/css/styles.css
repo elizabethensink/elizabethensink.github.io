@@ -215,7 +215,7 @@ section, footer, header{
 
 #timeline .slider-item:nth-child(1) h2{
 	font:normal 70px/1 'Antic Slab','Segoe UI',sans-serif;
-	background: url('../img/PillarChurch.jpg');
+	background:none;
 	white-space: nowrap;
 	padding:10px 5px 5px 20px;
 	position:relative;
