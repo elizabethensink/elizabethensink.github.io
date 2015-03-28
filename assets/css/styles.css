@@ -225,7 +225,7 @@ section, footer, header{
 
 #timeline .slider-item:nth-child(1) p i{
 	font:normal normal 40px 'Dancing Script','Segoe UI',sans-serif;
-	background:rgba(0,0,0,0);
+	background:rgba(0,0,0,0.3);
 	white-space: nowrap;
 	padding:5px 20px;
 	position:relative;
