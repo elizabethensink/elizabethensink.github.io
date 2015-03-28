@@ -233,7 +233,7 @@ section, footer, header{
 	z-index:10;
 }
 
-#timeline .slider-item:nth-child(1) p .c1
+#timeline .slider-item:nth-child(1) p .c1{
 	color:#FF0066;
 }
 
