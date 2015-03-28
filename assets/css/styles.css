@@ -55,7 +55,7 @@ section, footer, header{
 }
 
 #timeline div.navigation{
-    background: url('../img/OldPaperBackground.jpg') repeat;
+    background: url('../img/timeline_bg.jpg') repeat;
     border-top:none;
 }
 
@@ -68,7 +68,7 @@ section, footer, header{
 	width:100%;
 	left:0;
 	top:-40px;
-	background: url('../img/OldPaperBackground.jpg') repeat;
+	background: url('../img/timeline_bg.jpg') repeat;
 }
 
 #timeline div.navigation:after{
@@ -233,7 +233,7 @@ section, footer, header{
 	z-index:10;
 }
 
-#timeline .slider-item:nth-child(1) p .c1{
+#timeline .slider-item:nth-child(1) p .c1
 	color:#1bdff0;
 }
 
