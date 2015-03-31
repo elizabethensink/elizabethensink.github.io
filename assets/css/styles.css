@@ -243,6 +243,7 @@ section, footer, header{
 	left: -30px;
 	position: relative;
 	z-index: 1;
+	width: 300%;
 }
 
 #timeline .slider-item:nth-child(1) .credit{
