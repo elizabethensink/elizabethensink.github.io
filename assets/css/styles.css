@@ -243,14 +243,17 @@ section, footer, header{
 	left: -30px;
 	position: relative;
 	z-index: 1;
-	width: 200%;
-	height: 200%;
+
 }
 
 #timeline .slider-item:nth-child(1) .credit{
 	text-align: center;
 }
 
+div.media-container>img {
+	width: 1200px;
+	height: 1000px;
+}
 
 /*----------------------------
 	Back to Tzine header
