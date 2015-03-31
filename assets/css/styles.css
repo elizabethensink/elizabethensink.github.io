@@ -244,6 +244,8 @@ section, footer, header{
 #timeline .slider-item:nth-child(1) .media-container {
 	left: -30px;
 	position: relative;
+	height:1000px;
+	width:100%;
 	z-index: 1;
 }
 
