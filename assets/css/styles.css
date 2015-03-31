@@ -232,11 +232,11 @@ section, footer, header{
 }
 
 #timeline .slider-item:nth-child(1) p .c1{
-	color:#666666;
+	color:rgba(38, 63, 64, 0.7);
 }
 
 #timeline .slider-item:nth-child(1) p .c2{
-	color:#666666;
+	color:rgba(38, 63, 64, 0.7);
 }
 
 #timeline .slider-item:nth-child(1) .media-container {
