@@ -218,8 +218,8 @@ section, footer, header{
 	background: rgba(194, 163, 102, .4);
 	white-space: nowrap;
 	padding:10px 5px 5px 20px;
-	position:relative;
-	right:-60px;
+	position:left;
+	right:-10px;
 	z-index:10;
 }
 
@@ -228,8 +228,8 @@ section, footer, header{
 	background:rgba(194, 163, 102, .4);
 	white-space: nowrap;
 	padding:5px 20px;
-	position:relative;
-	right:-60px;
+	position:left;
+	right:-10px;
 	z-index:10;
 }
 
