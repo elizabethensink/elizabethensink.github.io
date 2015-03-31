@@ -219,7 +219,6 @@ section, footer, header{
 	white-space: nowrap;
 	padding:10px 5px 5px 20px;
 	position:left;
-	right:-150px;
 	z-index:10;
 }
 
@@ -229,7 +228,6 @@ section, footer, header{
 	white-space: nowrap;
 	padding:5px 20px;
 	position:left;
-	right:-150px;
 	z-index:10;
 }
 
