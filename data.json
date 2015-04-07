@@ -27,7 +27,7 @@
             {
                 "startDate":"1846,3",
                 "headline":"Rev. Thomas DeWitt Visits the Netherlands",
-                "text":"Rev. Thomas DeWitt, pastor of an RCA congregation in New York, visits the Netherlands and meets the members of the Christian Seceded Church who had left the State Church. He begins a column in The Christian Intelligencer, the weekly periodical of the RCA to inform RCA members of this small group and encourage their support. &sup1",
+                "text":"Rev. Thomas DeWitt, pastor of an RCA congregation in New York, visits the Netherlands and meets the members of the Christian Seceded Church who had left the State Church. He begins a column in The Christian Intelligencer, the weekly periodical of the RCA to inform RCA members of this small group and encourage their support.&sup1",
                 "asset":
                 {
                     "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
@@ -81,9 +81,9 @@
                 }
             },
             {
-                "startDate":"1860,4",
-                "headline":"Developed an iPad newspaper application",
-                "text":"It was a challenge to create both the design and code in a week.",
+                "startDate":"1849,6",
+                "headline":"Visit from Rev. Isaac N. Wykoff",
+                "text":"Sent by the RCA Board of Domestic Missions to investigate the condition of the Holland colony, Rev. Wykoff reports that there were about seven faithful congregations. They are eager for assistance since their mother church in the Netherlands was providing little support, and Wykoff proposes to the Holland Classis that they join the RCA. According to him, their only concern is that they are not put under “ecclesiastical bondage.”&sup6",
                 "asset":
                 {
                     "media":"http://dribbble.com/system/users/14521/screenshots/228267/proto_v4_decoupe_2.png?1324546898",
@@ -92,9 +92,9 @@
                 }
             },
             {
-                "startDate":"1862,8",
-                "headline":"Illustration for a big client.",
-                "text":"",
+                "startDate":"1849,7",
+                "headline":"Letter Sent to the RCA",
+                "text":"In response to Rev. Wykoff, a group of colonists led by Van Raalte affirm their agreement with the traditional reformed confessions and express their desire to join the RCA. They even write that the flourishing churches in the East have a responsibility to support them.&sup7 This letter was signed in June by twenty-four elders and ministers from the Holland area. However, notably, no church leaders from Graafschap, South Holland, Drenthe, or Grand Rapids congregations signed this document.&sup8",
                 "asset":
                 {
                     "media":"http://dribbble.com/system/users/13307/screenshots/366400/chameleon.jpg?1328028363",
@@ -102,7 +102,52 @@
                     "caption":""
                 }
             },
+             {
+                "startDate":"1846,3",
+                "headline":"Rev. Thomas DeWitt Visits the Netherlands",
+                "text":"Rev. Thomas DeWitt, pastor of an RCA congregation in New York, visits the Netherlands and meets the members of the Christian Seceded Church who had left the State Church. He begins a column in The Christian Intelligencer, the weekly periodical of the RCA to inform RCA members of this small group and encourage their support.&sup1",
+                "asset":
+                {
+                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
             {
+                "startDate":"1846,3",
+                "headline":"Rev. Thomas DeWitt Visits the Netherlands",
+                "text":"Rev. Thomas DeWitt, pastor of an RCA congregation in New York, visits the Netherlands and meets the members of the Christian Seceded Church who had left the State Church. He begins a column in The Christian Intelligencer, the weekly periodical of the RCA to inform RCA members of this small group and encourage their support.&sup1",
+                "asset":
+                {
+                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"1846,3",
+                "headline":"Rev. Thomas DeWitt Visits the Netherlands",
+                "text":"Rev. Thomas DeWitt, pastor of an RCA congregation in New York, visits the Netherlands and meets the members of the Christian Seceded Church who had left the State Church. He begins a column in The Christian Intelligencer, the weekly periodical of the RCA to inform RCA members of this small group and encourage their support.&sup1",
+                "asset":
+                {
+                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"1846,3",
+                "headline":"Rev. Thomas DeWitt Visits the Netherlands",
+                "text":"Rev. Thomas DeWitt, pastor of an RCA congregation in New York, visits the Netherlands and meets the members of the Christian Seceded Church who had left the State Church. He begins a column in The Christian Intelligencer, the weekly periodical of the RCA to inform RCA members of this small group and encourage their support.&sup1",
+                "asset":
+                {
+                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+            {
+
                 "startDate":"1875,12",
                 "headline":"Advert for Volkswagen",
                 "text":"Created the website for their new advertising campaign.",
@@ -111,6 +156,7 @@
                     "media":"http://www.youtube.com/watch?v=0-9EYFJ4Clo",
                     "credit":"",
                     "caption":""
+
                 }
             }
         ]
