@@ -9,7 +9,7 @@
 		"asset":
         {
             "media":"assets/img/PillarChurch.jpg",
-            "credit":"<a href='https://www.flickr.com/photos/stevendepolo/'>Steven DePolo under CC</a>",
+            "credit":"<a href='https://www.flickr.com/photos/stevendepolo/6698632039/in/photolist-bcWeM8-bcWeVR-bWt4HV/'>Steven DePolo</a>",
             "caption":"Pillar Church"
         },
         "date": [
@@ -27,7 +27,7 @@
             {
                 "startDate":"1846,3",
                 "headline":"Rev. Thomas DeWitt Visits the Netherlands",
-                "text":"Rev. Thomas DeWitt, pastor of an RCA congregation in New York, visits the Netherlands and meets the members of the Christian Seceded Church who had left the State Church. He begins a column in The Christian Intelligencer, the weekly periodical of the RCA to inform RCA members of this small group and encourage their support.&sup1",
+                "text":"Rev. Thomas DeWitt, pastor of an RCA congregation in New York, visits the Netherlands and meets the members of the Christian Seceded Church who had left the State Church. He begins a column in The Christian Intelligencer, the weekly periodical of the RCA to inform RCA members of this small group and encourage their support.<ahref&sup1",
                 "asset":
                 {
                     "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
@@ -160,7 +160,7 @@
             {
                 "startDate":"1853,5",
                 "headline":"Rev. Roelof Smit Deposed",
-                "text":"Though the Union of 1850 was complete, not all was peaceful in the Western churches. Several disagreements arose in the Graafschap and South Holland congregations over the calling of ministers. In 1852, The South Holland congregation secedes from the RCA after Holland Classis will not recognize Jacob R. Schepers as their minister. Schepers held disagreements with the RCA and avoided their examination to be ordained as an official candidate for the ministry. The South Holland congregation joins the Associate Reformed Church, another Reformed congregation in the area, where Rev. Jacob R. Schepers becomes ordained instead.",
+                "text":" Rev. Roelof Smit, a minister loyal to the more orthodox group of seceders from the Netherlands, is accused of slandering Van Raalte and stirs up controversy over observation of holiday services. He is also absent from a classis vote to found a Christian day school, the English Academy. He believed that this school was a step in the direction of Americanization and therefore away from pure doctrine. When Holland Classis deposes him for his “arbitrary and carnal conduct,” he leaves the denomination with 2/3 of the members of the Drenthe congregation. This group would later join the CRC &sup15",
                 "asset":
                 {
                     "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
@@ -291,7 +291,7 @@
             },
              {
                 "startDate":"1867",
-                "headline":"RCA Drops the Word “Dutch” from their Name",
+                "headline":"RCA Drops the Word “Dutch” from their Name &sub26",
                 "text":"",
                 "asset":
                 {
@@ -399,8 +399,74 @@
                 }
             },
              {
-                "startDate":"1880,6",
-                "headline":"RCA Synod Confonts Freemasonry (Again)",
+                "startDate":"1880,10",
+                "headline":"Holland Classis Dissatisfied",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1884,6",
+                "headline":"RCA Synod Meets in Grand Rapids",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1881,10",
+                "headline":"Saugatuck and East Saugatuck Secede",
+                "text":"Saugatuck and East Saugatuck congregations leave the RCA",
+                "asset":
+                {
+                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1881,11",
+                "headline":"Holland Classis Resolves to Stay",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1882,2",
+                "headline":"More Congregations Leave the RCA",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1882,3",
+                "headline":"Conflict at First Reformed Church",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"1884",
+                "headline":"The Dust Settles",
                 "text":"",
                 "asset":
                 {
