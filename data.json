@@ -27,7 +27,7 @@
             {
                 "startDate":"1846,3",
                 "headline":"Rev. Thomas DeWitt Visits the Netherlands",
-                "text":"Rev. Thomas DeWitt, pastor of an RCA congregation in New York, visits the Netherlands and meets the members of the Christian Seceded Church who had left the State Church. He begins a column in The Christian Intelligencer, the weekly periodical of the RCA to inform RCA members of this small group and encourage their support.<ahref&sup1",
+                "text":"Rev. Thomas DeWitt, pastor of an RCA congregation in New York, visits the Netherlands and meets the members of the Christian Seceded Church who had left the State Church. He begins a column in The Christian Intelligencer, the weekly periodical of the RCA to inform RCA members of this small group and encourage their support.",
                 "asset":
                 {
                     "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
@@ -476,8 +476,7 @@
                     "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
                     "caption":""
                 }
-            },
-           
+            }, 
         ]
     }
 }
