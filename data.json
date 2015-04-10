@@ -380,7 +380,19 @@
              {
                 "startDate":"1880,1",
                 "headline":"Second Peak of Dutch Immigration",
-                "asset": "The 1880s were the highpoint of Dutch migration to the U.S. in terms of numbers. The reasons for migration varied considerably between the two waves of immigrants. Those who embarked for America in the 1880s were almost solely driven by economic opportunity, as compared to the religious dissidents who left in the 1840s. Many immigrants who came to America at this time chose to join the CRC, helping it grow in numbers. To learn more about Dutch migration in the 1880s, click here."
+                "text":"The 1880s were the highpoint of Dutch migration to the U.S. in terms of numbers. The reasons for migration varied considerably between the two waves of immigrants. Those who embarked for America in the 1880s were almost solely driven by economic opportunity, as compared to the religious dissidents who left in the 1840s. Many immigrants who came to America at this time chose to join the CRC, helping it grow in numbers. To learn more about Dutch migration in the 1880s, click here.",
+                "asset":
+                {
+                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1880,6",
+                "headline":" RCA Synod Confronts Freemasonry (again)",
+                "text":"The General Synod of the RCA receive a full report form the committee that had been studying the issue of masonry, and letters from Classis of Holland, Grand River, Illinois, and Wisconsin protesting the tolerance of lodge membership. One letter astutely noted that if the RCA did not condemn freemasonry, the new immigrants coming to America will choose to join the mroe orthodox CRC. After a lengthy debate, the Synod essentially reaffirmed their earlier decisions saying that no member of the RCA should belong to an anti-christian organization but that the churches are “affectionately cautioned against setting up any new or unauthorized tests of communion in the Christian Church.",
+                "asset":
                 {
                     "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
                     "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
@@ -390,7 +402,7 @@
              {
                 "startDate":"1880,10",
                 "headline":"Holland Classis Dissatisfied",
-                "text":"",
+                "text":"Delegates to the Holland Classis agree and formally state that “public opinion has almost universally interpreted General Synod’s actions as a decision that Masons were allowed in the communion of the Reformed church.",
                 "asset":
                 {
                     "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
@@ -401,7 +413,7 @@
             {
                 "startDate":"1884,6",
                 "headline":"RCA Synod Meets in Grand Rapids",
-                "text":"",
+                "text":"In attempt to smooth relations with the West, the RCA General Synod convenes in the West for the first time and took an offering to build a home for the president of Hope College. However, they held no discussion on the issue of masonic lodge membership.",
                 "asset":
                 {
                     "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
