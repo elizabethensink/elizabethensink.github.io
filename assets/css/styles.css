@@ -208,8 +208,10 @@ section, footer, header{
 
 
 #timeline .slider-item img,
-#timeline .slider-item iframe{
+#timeline .slider-item iframe
 	border:none;
+#timeline .slider-item blockquote{
+	background: rgba(194, 163, 102, .4);
 }
 
 /* Customizing the first slide - the cover */
