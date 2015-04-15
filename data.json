@@ -16,7 +16,7 @@
             {
                 "startDate":"1834,5",
                 "headline":"The Afscheiding",
-                "text":"A number of ministers and their congregations secede from the Hervormde Kerk in the Netherlands. Albertus Van Raalte is among them. The Afscheiding (or “separation”) has begun and many Dutch Christians will leave the Hervormde Kerk in the following years as it becomes more liberal. This conflict also sowed seeds of disagreement that were brought to America.",
+                "text":"A number of ministers and their congregations secede from the Hervormde Kerk in the Netherlands. Albertus Van Raalte is among them. The Afscheiding (or “separation”) has begun and many Dutch Christians will leave the Hervormde Kerk in the following years as it becomes more liberal. This conflict also sowed seeds of disagreement that were brought to America. &sup1",
                 "asset":
                 {
                     "media":"assets/img/Windmills.gif",
@@ -119,7 +119,6 @@
                 "text":"The RCA Domestic Board of Missions begins sending funds to support the colonists",
                 "asset":
                 {
-                    "footnote":"DID IT WORK?",
                     "media":"",
                     "credit":"",
                     "caption":""
