@@ -191,9 +191,20 @@
                 }
             },
             {
-                "startDate":"1856",
+                "startDate":"1856,4",
                 "headline":"Gysbert Haan Withdraws from the RCA",
                 "text":"Seeing no reason to remain linked to a church that was straying from the principles of the 1834 Secession, Haan withdraws from the RCA before he could be disciplined for dissension. Several leaders among the lay people in Grand Rapids, Holland, and Vriesland follow.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"1856,6",
+                "headline":"Pillar Church Dedicated",
+                "text":"Rev Albertus Van Raalte dedicates the Pillar Church building as the first official church on June 25, 1856. The Pillar Church congregation began when the Dutch immigrants first settled in Holland, and their leader, Rev. Van Raalte, was the pastor of Pillar for the first years of its existence.These immigrants worshiped outdoors until a small log chapel was built. The membership of the log church grew too large to continue without a church building, so they began the building of Pillar Church in 1854.",
                 "asset":
                 {
                     "media":"",
@@ -270,7 +281,7 @@
             {
                 "startDate":"1866",
                 "headline":"Hope College Officially Chartered",
-                "text":"Hope College is officially recognized as a University by the State of Michigan and graduates it’s first class of eight men. Led by president Phillip Phelps, a minister from the East and friend of Van Raalte, the school’s faculty, board, and students were all closely affiliated with the RCA.",
+                "text":"Hope College is officially recognized as a University by the State of Michigan and graduates its first class of eight men. Led by president Phillip Phelps, a minister from the East and friend of Van Raalte, the school’s faculty, board, and students were all closely affiliated with the RCA.",
                 "asset":
                 {
                     "media":"",
@@ -279,9 +290,20 @@
                 }
             },
              {
-                "startDate":"1867",
+                "startDate":"1867,4",
                 "headline":"CRC Bans Masonic Lodge Membership",
                 "text":"Masonic lodges in America served as mostly social and business organizations. However, many viewed membership as a sin because of the organizations secrecy, elitism, and roots in the European enlightenment. For more on this controversy, click here.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1867,9",
+                "headline":"Pillar Church Plants Third Reformed Church",
+                "text":"The church leaders of Pillar Church dedicate a second church called Third Reformed Church to meet the needs of the increased population and demand for church community. Everyone who lived west of Central Ave. went to Third Reformed Church, and everyone who lived east of Central Ave. continued to attend Pillar Church. However, many did not want to leave Pillar Church because Van Raalte was the pastor there, so Van Raalte left Michigan to plant churches in Virginia. Third Reformed Church was and still remains an RCA church.",
                 "asset":
                 {
                     "media":"",
@@ -292,7 +314,7 @@
              {
                 "startDate":"1867",
                 "headline":"RCA Adjusts Name",
-                "text":"Formerly known as the Dutch Reformed Church in America, the RCA drops the word 'Dutch' from their name. This may indicate the cotinued shift towards Americanziation in the denomination.",
+                "text":"Formerly known as the Dutch Reformed Church in America, the RCA drops the word 'Dutch' from their name. This may indicate the continued shift towards Americanziation in the denomination.",
                 "asset":
                 {
                     "media":"",
@@ -446,7 +468,7 @@
             {
                 "startDate":"1882,2",
                 "headline":"More Congregations Leave the RCA",
-                "text":"First Reformed Church votes 86 to 18 to leave the RCA. Rev. Zwemer and his congregation at Graafschap leave the next day.",
+                "text":"The Pillar Church congregation votes 86 to 18 to leave the RCA. Rev. Zwemer and his congregation at Graafschap leave the next day.",
                 "asset":
                 {
                     "media":"",
@@ -456,7 +478,7 @@
             },
             {
                 "startDate":"1882,3",
-                "headline":"Conflict at First Reformed Church",
+                "headline":"Conflict at Pillar Church",
                 "text":"The Holland Classis calls a meeting to deal with the most recent secessions. They plan to meet at Pillar Church, home of the First Reformed Church congregation, but since this congregation had seceded, one of the elders bars the doors with axe handles and refuses to let the delegates enter. In contrast to dramatized accounts of this conflict at the church doors in major newspapers, the Classis peacefully moved their meeting to a nearby church that hadn’t seceded.",
                 "asset":
                 {
