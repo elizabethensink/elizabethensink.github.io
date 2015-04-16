@@ -15,7 +15,7 @@
 
 
 html{
-	background:url('assets/img/OldPaperBackground.jpg') repeat #191919;
+	background:url('assets/img/PaperBackground2.jpg') repeat #191919;
 }
 
 
@@ -47,7 +47,7 @@ section, footer, header{
 
 
 #timeline{
-	background: url('../img/OldPaperBackground.jpg') repeat;
+	background: url('../img/PaperBackground2.jpg') repeat;
 }
 
 .slider .slider-container-mask .slider-container{
