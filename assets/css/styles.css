@@ -145,6 +145,7 @@ section, footer, header{
 
 .slider .nav-previous,.slider .nav-next{
 	font-family:'Segoe UI',sans-serif;
+	color: #666;
 }
 
 .slider .nav-next .icon {
