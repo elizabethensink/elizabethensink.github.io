@@ -159,7 +159,7 @@ section, footer, header{
 }
 
 .slider .nav-previous:hover, .slider .nav-next:hover {
-    color: #666;
+    color: #000000;
     cursor: pointer;
 }
 
