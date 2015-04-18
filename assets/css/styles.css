@@ -41,7 +41,6 @@ section, footer, header{
 }
 
 
-
 /*----------------------------
 	Styling the timeline
 -----------------------------*/
@@ -212,6 +211,8 @@ section, footer, header{
 #timeline .slider-item img,
 #timeline .slider-item iframe
 	border:none;
+#timeline .slider-item blockquote{
+	background: rgba(194, 163, 102, .4) !important;
 }
 
 /* Customizing the first slide - the cover */
