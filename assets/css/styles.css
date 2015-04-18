@@ -212,7 +212,7 @@ section, footer, header{
 #timeline .slider-item iframe
 	border:none;
 blockquote{
-	background: rgba(194, 163, 102, .4);
+	background: rgba(194, 163, 102, .4) !important;
 }
 
 /* Customizing the first slide - the cover */
