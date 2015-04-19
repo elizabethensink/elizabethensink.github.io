@@ -9,7 +9,7 @@
 		"asset":
         {
             "media":"assets/img/PillarChurch.jpg",
-            "credit":"Pillar Church - Courtesy of<a href='https://www.flickr.com/photos/stevendepolo/6698632039/in/photolist-bcWeM8-bcWeVR-bWt4HV/'>Steven DePolo</a>",
+            "credit":"Pillar Church - Courtesy of <a href='https://www.flickr.com/photos/stevendepolo/6698632039/in/photolist-bcWeM8-bcWeVR-bWt4HV/'>Steven DePolo</a>",
             "caption":""
         },
         "date": [
@@ -20,7 +20,7 @@
                 "asset":
                 {
                     "media":"assets/img/Windmills.gif",
-                    "credit":"",
+                    "credit":"Image courtesy of <a href='http://krisdedecker.typepad.com/.a/6a00e0099229e888330120a61ede0b970c-pi'></a>",
                     "caption":""
                 }
             },
