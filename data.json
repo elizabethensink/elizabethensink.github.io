@@ -9,8 +9,8 @@
 		"asset":
         {
             "media":"assets/img/PillarChurch.jpg",
-            "credit":"Pillar Church <a href='https://schismof1857.wordpress.com/timeline-image-citations/'><sup>1</sup></a> - Courtesy of <a href='https://www.flickr.com/photos/stevendepolo/6698632039/in/photolist-bcWeM8-bcWeVR-bWt4HV/'>Steven DePolo</a>",
-            "caption":""
+            "credit":"Image Courtesy of <a href='https://www.flickr.com/photos/stevendepolo/6698632039/in/photolist-bcWeM8-bcWeVR-bWt4HV/'>Steven DePolo</a>",
+            "caption":"Pillar Church<a href='https://schismof1857.wordpress.com/timeline-image-citations/'><sup>1</sup></a> "
         },
         "date": [
             {
@@ -21,7 +21,7 @@
                 {
                     "media":"assets/img/Windmills.gif",
                     "credit":"Image courtesy of <a href='http://krisdedecker.typepad.com/.a/6a00e0099229e888330120a61ede0b970c-pi'>Kris Decker</a>",
-                    "caption":""
+                    "caption":"Windmills in the Netherlands<a href='https://schismof1857.wordpress.com/timeline-image-citations/'><sup>2</sup></a> "
                 }
             },
             {
@@ -31,8 +31,8 @@
                 "asset":
                 {
                     "media":"assets/img/PotatoBlight.jpg",
-                    "credit":"The Potato Eaters by Van Gogh - Image courtesy of <a href= 'https://www.flickr.com/photos/pachango/3679936584/in/photolist-6BbCWu-FyhFx-5jRMcW-5jRMcw-5jMvJ8-9SUTd9-4d2BUj-cvJJw7-7oCwLP-biEeQc-4p4XXZ-8gcxpu-nfZVze-dHXsaq-7zYCgj-6zAQtZ-nRvRPD-iZh9Q-8oLZCu-bJMkfv-e2PhHt-agXDu-6e254A-5qeqPz-7LZZav'>Niels</a>",
-                    "caption":""
+                    "credit":"Image courtesy of <a href= 'https://www.flickr.com/photos/pachango/3679936584/in/photolist-6BbCWu-FyhFx-5jRMcW-5jRMcw-5jMvJ8-9SUTd9-4d2BUj-cvJJw7-7oCwLP-biEeQc-4p4XXZ-8gcxpu-nfZVze-dHXsaq-7zYCgj-6zAQtZ-nRvRPD-iZh9Q-8oLZCu-bJMkfv-e2PhHt-agXDu-6e254A-5qeqPz-7LZZav'>Niels</a>",
+                    "caption":"The Potato Eaters by Van Gogh<a href='https://schismof1857.wordpress.com/timeline-image-citations/'><sup>3</sup></a>"
                 }
             },
             {
@@ -42,19 +42,19 @@
                 "asset":
                 {
                     "media":"assets/img/Thomas_De_Witt.jpg",
-                    "credit":"Rev. Thomas DeWitt - Image courtesy of <a href='http://www.jointarchives.org/'>The Joint Archives of Holland</a>",
-                    "caption":""
+                    "credit":"Image courtesy of <a href='http://www.jointarchives.org/'>The Joint Archives of Holland</a>",
+                    "caption":"Rev. Thomas DeWitt<a href='https://schismof1857.wordpress.com/timeline-image-citations/'><sup>4</sup></a>"
                 }
             },
             {
                 "startDate":"1846,10",
                 "headline":"Societies to Help Immigrants",
-                "text":"The “Protestant Evangelical Holland Emigrant Society”was founded in Albany, New York by Rev. Isaac N. Wykoff to help any Dutch immigrants passing through Albany. Another similar society was started by Rev. DeWitt the next year specifically to help Van Raalte’s group as they immigrated west.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>4</sup></a>",
+                "text":"The “Protestant Evangelical Holland Emigrant Society” was founded in Albany, New York by Rev. Isaac N. Wykoff to help any Dutch immigrants passing through Albany. Another similar society was started by Rev. DeWitt the next year specifically to help Van Raalte’s group as they immigrated west.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>4</sup></a>",
                 "asset":
                 {
                     "media":"assets/img/Albany.png",
-                    "credit":"<a href='http://en.wikipedia.org/wiki/History_of_Albany,_New_York#/media/File:North_Pearl_Street_Albany_1800s.png'>Albany, New York</a>",
-                    "caption":""
+                    "credit":"Image courtesy of <a href='http://en.wikipedia.org/wiki/History_of_Albany,_New_York#/media/File:North_Pearl_Street_Albany_1800s.png'>Albany Institute of History and Art</a>",
+                    "caption":"Albany, New York<a href='https://schismof1857.wordpress.com/timeline-image-citations/'><sup>5</sup></a>"
                 }
             },
             {
@@ -63,8 +63,8 @@
                 "text":"Van Raalte and about fifty immigrants arrive at the shore of present-day Lake Macatawa.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>5</sup></a>.",
                 "asset":
                 {
-                    "media":"assets/img/Map.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/120088-Gmail-Pokki-Final-Ui'>by Justalab</a>",
+                    "media":"",
+                    "credit":"",
                     "caption":""
                 }    
             },
@@ -218,7 +218,7 @@
                 "text":"Four congregations — Nordeloos, Polkton, Grand Rapids, and Graafschap — send letters of secession to the Holland Classis after voting to “return” to independence from the RCA. The congregations were concerned that the RCA had strayed towards more liberal theology and practices. Their specific complaints were the use of man-made hymns in worship, open communion, and not preaching the doctrines of total depravity and limited atonement.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>21</sup></a> For more information on the reasons behind the secession <a href='https://schismof1857.wordpress.com/reasons-behind-the-secession/'>click here.</a>",
                 "asset":
                 {
-                    "media":"assets/img/Graafshap_CRC.jpg",
+                    "media":"",
                     "credit":"Image courtesy of <a href='http://www.jointarchives.org/'>The Joint Archives of Holland</a>",
                     "caption":"Graafshap Christian Reformed Church<a href='https://schismof1857.wordpress.com/timeline-image-citations/'><sup>#</sup></a>"
                 }
