@@ -16,26 +16,27 @@
             {
                 "startDate":"1834,5",
                 "headline":"The Afscheiding",
-                "html": "<button type=\"button\" class=\"btn btn-primary btn-lg\" data-toggle=\"modal\" data-target=\"#myModal\">
+
+                "html": "<button type=\"button\" class=\"btn btn-primary btn-lg\" data-toggle=\"modal\" data-target=\"#myModal\"\/>
   Click Here
-</button>
+<\/button>
 
 
-<div class=\"modal fade\" id=\"myModal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\">
-  <div class=\"modal-dialog\">
-    <div class=\"modal-content\">
-      <div class=\"modal-header\">
-        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button>
-        <h4 class=\"modal-title\" id=\"myModalLabel\">Modal title</h4>
-      </div>
-      <div class=\"modal-body\">
+<div class=\"modal fade\" id=\"myModal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\"\/>
+  <div class=\"modal-dialog\"\/>
+    <div class=\"modal-content\"\/>
+      <div class=\"modal-header\"\/>
+        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"\/><span aria-hidden=\"true\"\/>&times;<\/span><\/button>
+        <h4 class=\"modal-title\" id=\"myModalLabel\"\/>Modal title<\/h4>
+      <\/div>
+      <div class=\"modal-body\"\/>
         ...
-      </div>
-      <div class=\"modal-footer\">
-      </div>
-    </div>
-  </div>
-</div>",
+      <\/div>
+      <div class=\"modal-footer\"\/>
+      <\/div>
+    <\/div>
+  <\/div>
+<\/div>",
                 "text":"A number of ministers and their congregations secede from the <a href='https://schismof1857.wordpress.com/glossary-of-churches/'><i>Hervormde Kerk</i></a>, the state-sanctioned church in the Netherlands. Albertus Van Raalte is among them. The <i>Afscheiding</i> (or “separation”) has begun and many Dutch Christians will leave the <i>Hervormde Kerk</i> in the following years as it becomes more liberal. This conflict also sowed seeds of disagreement that were brought to America.<a href='https://schismof1857.wordpress.com/timeline-sources/#source1'>&sup1</a> For more on this conflict <a href='https://schismof1857.wordpress.com/the-afscheiding/'>click here.</a>",
                 "asset":
                 {
