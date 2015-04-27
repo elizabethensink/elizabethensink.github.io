@@ -149,22 +149,22 @@ section, footer, header{
 }
 
 .slider .nav-next .icon {
-	background: url("timeline.png") no-repeat scroll 72px -221px transparent;
+	background: url("timeline.png") no-repeat scroll 72px -221px transparent !important;
 	width: 70px !important;
 }
 
 .slider .nav-next:hover .icon{
-	position:relative;
-	right:-5px;
+	position:relative !important;
+	right:-5px !important;
 }
 
 .slider .nav-previous:hover, .slider .nav-next:hover {
-    color: #1A3300;
-    cursor: pointer;
+    color: #1A3300 !important;
+    cursor: pointer !important;
 }
 
 #timeline .thumbnail {
-	border: medium none;
+	border: medium none !important;
 }
 
 /* Color of the headings */
