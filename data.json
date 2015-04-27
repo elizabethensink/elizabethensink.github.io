@@ -384,7 +384,7 @@
                 "asset":
                 {
                     "media":"assets/img/EdmondRonayne.jpg",
-                    "credit":"Image courtesy of <a href='http://nationalheritagemuseum.typepad.com/library_and_archives/'>Scottish Rite Masonic Museum and Library",
+                    "credit":"Image courtesy of <a href='http://nationalheritagemuseum.typepad.com/library_and_archives/'>Scottish Rite Masonic Museum and Library</a>",
                     "caption":"A poster for one of Edmond Ronayne's many lectures"
                 }
             },
@@ -395,7 +395,7 @@
                 "asset":
                 {
                     "media":"",
-                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "credit":"",
                     "caption":""
                 }
             },
