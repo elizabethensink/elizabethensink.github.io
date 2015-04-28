@@ -2,10 +2,10 @@
 {
     "timeline":
     {
-        "headline":"<a data-toggle='modal' data-target='#Introduction'>RCA and CRC Schism</a>",
+        "headline":"RCA and CRC Schism",
         "type":"default",
 		"startDate":"1833,1",
-		"text":"<i><span class='c1'>Conflict</span> & <span class='c2'>Culture</span></i>",
+		"text":"<a data-toggle='modal' data-targer='#Introduction'><i><span class='c1'>Conflict</span> & <span class='c2'>Culture</span></i></a>",
 		"asset":
         {
             "media":"assets/img/PillarChurch.jpg",
