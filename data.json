@@ -27,7 +27,7 @@
             {
                 "startDate":"1846",
                 "headline":"Potato Blight",
-                "text":"The potato blight that had struck in Ireland arrives in the Netherlands. The resulting economic depression may have been a factor causing some to emmigrate to America.<a href='https://schismof1857.wordpress.com/timeline-sources/#source2'>&sup2</a> For more on the potato blight <a href='https://schismof1857.wordpress.com/dutch-migration-in-the-1840s/'>click here</a>.",
+                "text":"The <a data-toggle='modal' data-target='#Introduction'>potato blight</a> that had struck in Ireland arrives in the Netherlands. The resulting economic depression may have been a factor causing some to emmigrate to America.<a href='https://schismof1857.wordpress.com/timeline-sources/#source2'>&sup2</a> For more on the potato blight <a href='https://schismof1857.wordpress.com/dutch-migration-in-the-1840s/'>click here</a>.",
                 "asset":
                 {
                     "media":"assets/img/PotatoBlight.jpg",
